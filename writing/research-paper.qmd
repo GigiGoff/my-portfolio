@@ -1,0 +1,7 @@
+---
+title: "Research Paper Summary (Placeholder)"
+format: html
+---
+
+## Overview
+Placeholder page. Link a PDF or paste a summary here later.

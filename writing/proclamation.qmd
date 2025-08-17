@@ -1,0 +1,7 @@
+---
+title: "Proclamation (Placeholder)"
+format: html
+---
+
+## Overview
+Placeholder page. Paste your proclamation text here later.

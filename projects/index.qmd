@@ -1,0 +1,10 @@
+---
+title: "Data & Projects"
+format: html
+---
+
+# Data & Projects
+
+A selection of my data analysis and programming projects.
+
+- [BLAST Protein ID](blast-protein-id.qmd)

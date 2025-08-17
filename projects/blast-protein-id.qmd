@@ -1,0 +1,7 @@
+---
+title: "Bioinformatics Project (Placeholder)"
+format: html
+---
+
+## Overview
+Placeholder page. Replace with your real project content later.

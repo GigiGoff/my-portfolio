@@ -1,0 +1,29 @@
+{
+  "about.qmd": {
+    "about.html": "12f6445a"
+  },
+  "contact.qmd": {
+    "contact.html": "38569d21"
+  },
+  "index.qmd": {
+    "index.html": "b7b55b91"
+  },
+  "projects/index.qmd": {
+    "index.html": "9722b484"
+  },
+  "writing/index.qmd": {
+    "index.html": "8a6e4b2f"
+  },
+  "projects/blast_protein_id.qmd": {
+    "blast_protein_id.html": "1c7968a0"
+  },
+  "writing/proclamation.qmd": {
+    "proclamation.html": "ed3f64ab"
+  },
+  "writing/research-paper.qmd": {
+    "research-paper.html": "c6d7ea63"
+  },
+  "projects/blast-protein-id.qmd": {
+    "blast-protein-id.html": "0f8a8314"
+  }
+}

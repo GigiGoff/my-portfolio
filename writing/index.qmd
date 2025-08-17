@@ -1,0 +1,11 @@
+---
+title: "Writing"
+format: html
+---
+
+# Writing Samples
+
+Here are selected pieces of my scientific and technical writing.
+
+- [Research Paper Summary](research-paper.qmd)
+- [Proclamation](proclamation.qmd)
