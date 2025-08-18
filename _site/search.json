@@ -1,40 +1,5 @@
 [
   {
-    "objectID": "writing/index.html",
-    "href": "writing/index.html",
-    "title": "Writing",
-    "section": "",
-    "text": "Writing Samples\nHere are selected pieces of my scientific and technical writing.\n\nResearch Paper Summary\nProclamation"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "my-portfolio",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Get in Touch\n\nEmail: your.email@example.com\n\nLinkedIn: linkedin.com/in/yourprofile\n\nGitHub: github.com/yourusername"
-  },
-  {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "Data & Projects",
-    "section": "",
-    "text": "Data & Projects\nA selection of my data analysis and programming projects.\n\nBLAST Protein ID"
-  },
-  {
     "objectID": "writing/research-paper.html",
     "href": "writing/research-paper.html",
     "title": "Research Paper Summary (Placeholder)",
@@ -49,32 +14,11 @@
     "text": "Placeholder page. Link a PDF or paste a summary here later."
   },
   {
-    "objectID": "projects/blast_protein_id.html",
-    "href": "projects/blast_protein_id.html",
-    "title": "Bioinformatics Project (Placeholder)",
+    "objectID": "writing/index.html",
+    "href": "writing/index.html",
+    "title": "Writing",
     "section": "",
-    "text": "Placeholder page. Replace with your real project content later."
-  },
-  {
-    "objectID": "projects/blast_protein_id.html#overview",
-    "href": "projects/blast_protein_id.html#overview",
-    "title": "Bioinformatics Project (Placeholder)",
-    "section": "",
-    "text": "Placeholder page. Replace with your real project content later."
-  },
-  {
-    "objectID": "writing/proclamation.html",
-    "href": "writing/proclamation.html",
-    "title": "Proclamation (Placeholder)",
-    "section": "",
-    "text": "Placeholder page. Paste your proclamation text here later."
-  },
-  {
-    "objectID": "writing/proclamation.html#overview",
-    "href": "writing/proclamation.html#overview",
-    "title": "Proclamation (Placeholder)",
-    "section": "",
-    "text": "Placeholder page. Paste your proclamation text here later."
+    "text": "Writing Samples\nHere are selected pieces of my scientific and technical writing.\n\nResearch Paper Summary\nProclamation"
   },
   {
     "objectID": "projects/blast-protein-id.html",
@@ -89,5 +33,47 @@
     "title": "Bioinformatics Project (Placeholder)",
     "section": "",
     "text": "Placeholder page. Replace with your real project content later."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Get in Touch\n\nEmail: your.email@example.com\n\nLinkedIn: linkedin.com/in/yourprofile\n\nGitHub: github.com/yourusername"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "my-portfolio",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Data & Projects",
+    "section": "",
+    "text": "Data & Projects\nA selection of my data analysis and programming projects.\n\nBLAST Protein ID"
+  },
+  {
+    "objectID": "writing/proclamation.html",
+    "href": "writing/proclamation.html",
+    "title": "Proclamation (Placeholder)",
+    "section": "",
+    "text": "Placeholder page. Paste your proclamation text here later."
+  },
+  {
+    "objectID": "writing/proclamation.html#overview",
+    "href": "writing/proclamation.html#overview",
+    "title": "Proclamation (Placeholder)",
+    "section": "",
+    "text": "Placeholder page. Paste your proclamation text here later."
   }
 ]
