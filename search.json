@@ -23,16 +23,16 @@
   {
     "objectID": "projects/blast-protein-id.html",
     "href": "projects/blast-protein-id.html",
-    "title": "Bioinformatics Project (Placeholder)",
+    "title": "BLAST Protein Identification (Mini Project)",
     "section": "",
-    "text": "Placeholder page. Replace with your real project content later."
+    "text": "Identify an “unknown” protein sequence by running a BLASTp search and interpreting the results."
   },
   {
     "objectID": "projects/blast-protein-id.html#overview",
     "href": "projects/blast-protein-id.html#overview",
-    "title": "Bioinformatics Project (Placeholder)",
+    "title": "BLAST Protein Identification (Mini Project)",
     "section": "",
-    "text": "Placeholder page. Replace with your real project content later."
+    "text": "Identify an “unknown” protein sequence by running a BLASTp search and interpreting the results."
   },
   {
     "objectID": "contact.html",
@@ -44,23 +44,23 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "About this site"
+    "text": "Hi, I’m Gigi Goff. I have a background in biological sciences and hands-on research experience at Emory University, along with projects in bioinformatics and data analysis.\nI’m passionate about connecting research, data, and writing to create meaningful impact — whether through managing biological samples, analyzing protein sequences, or communicating results clearly."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "my-portfolio",
+    "title": "Welcome!",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Welcome!\nI’m Gigi Goff, a biologist with interests in research, writing, and data.\nThis portfolio highlights selected projects, from lab experience to bioinformatics analyses.\n\n\nProjects\n\nProtein BLAST Identification: Mini-project confirming an unknown sequence via BLASTp."
   },
   {
     "objectID": "projects/index.html",
     "href": "projects/index.html",
     "title": "Data & Projects",
     "section": "",
-    "text": "Data & Projects\nA selection of my data analysis and programming projects.\n\nBLAST Protein ID"
+    "text": "A selection of my data analysis and programming projects.\n\nBLAST Protein ID"
   },
   {
     "objectID": "writing/proclamation.html",
