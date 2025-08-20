@@ -39,7 +39,7 @@
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Get in Touch\n\nEmail: your.email@example.com\n\nLinkedIn: linkedin.com/in/yourprofile\n\nGitHub: github.com/yourusername"
+    "text": "Contact\nI’d love to connect!\n\nEmail GitHub LinkedIn Research Paper (PDF)"
   },
   {
     "objectID": "about.html",
@@ -53,7 +53,7 @@
     "href": "index.html",
     "title": "Welcome!",
     "section": "",
-    "text": "Welcome!\nI’m Gigi Goff, a biologist with interests in research, writing, and data.\nThis portfolio highlights selected projects, from lab experience to bioinformatics analyses.\n\n\nProjects\n\nProtein BLAST Identification: Mini-project confirming an unknown sequence via BLASTp."
+    "text": "Welcome!\nI’m Gigi Goff, a biologist with interests in research, writing, and data.\nThis portfolio highlights selected projects, from lab experience to bioinformatics analyses.\n\n\nProjects\n\nProtein BLAST Identification: Mini-project confirming an unknown sequence via BLASTp.\nResearch Paper (PDF)"
   },
   {
     "objectID": "projects/index.html",
