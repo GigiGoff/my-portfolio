@@ -1,24 +1,66 @@
 [
   {
-    "objectID": "writing/research-paper.html",
-    "href": "writing/research-paper.html",
-    "title": "Research Paper Summary (Placeholder)",
+    "objectID": "writing/proclamation-colon-cancer-awareness-2023.html",
+    "href": "writing/proclamation-colon-cancer-awareness-2023.html",
+    "title": "Proclamation: Colon Cancer Awareness Month",
     "section": "",
-    "text": "Placeholder page. Link a PDF or paste a summary here later."
+    "text": "Summary. In 2023, I drafted this proclamation recognizing Colon Cancer Awareness Month, which was subsequently adopted to encourage early screening, public education, and support for patients and caregivers."
   },
   {
-    "objectID": "writing/research-paper.html#overview",
-    "href": "writing/research-paper.html#overview",
-    "title": "Research Paper Summary (Placeholder)",
-    "section": "",
-    "text": "Placeholder page. Link a PDF or paste a summary here later."
+    "objectID": "writing/proclamation-colon-cancer-awareness-2023.html#why-it-matters",
+    "href": "writing/proclamation-colon-cancer-awareness-2023.html#why-it-matters",
+    "title": "Proclamation: Colon Cancer Awareness Month",
+    "section": "Why It Matters",
+    "text": "Why It Matters\n\nEarly detection saves lives. Screening can identify precancerous polyps and early-stage cancers.\nDisparities persist. Access, awareness, and follow-up care vary across communities."
   },
   {
-    "objectID": "writing/index.html",
-    "href": "writing/index.html",
-    "title": "Writing",
+    "objectID": "writing/proclamation-colon-cancer-awareness-2023.html#my-role",
+    "href": "writing/proclamation-colon-cancer-awareness-2023.html#my-role",
+    "title": "Proclamation: Colon Cancer Awareness Month",
+    "section": "My Role",
+    "text": "My Role\nAs the drafter of the proclamation, I aimed to highlight both the importance of prevention and the need to address disparities in colorectal cancer care."
+  },
+  {
+    "objectID": "writing/proclamation-colon-cancer-awareness-2023.html#call-to-action",
+    "href": "writing/proclamation-colon-cancer-awareness-2023.html#call-to-action",
+    "title": "Proclamation: Colon Cancer Awareness Month",
+    "section": "Call to Action",
+    "text": "Call to Action\n\nTalk to a healthcare provider about the right screening schedule for you.\nShare reliable resources and support local awareness efforts.\nAdvocate for equitable access to screening and follow-up care."
+  },
+  {
+    "objectID": "writing/proclamation-colon-cancer-awareness-2023.html#resources",
+    "href": "writing/proclamation-colon-cancer-awareness-2023.html#resources",
+    "title": "Proclamation: Colon Cancer Awareness Month",
+    "section": "Resources",
+    "text": "Resources\n\nCDC: Colorectal Cancer Basics\nACS: Screening Guidelines & Risk Factors"
+  },
+  {
+    "objectID": "writing/epigenetic-age-acceleration-ptsd.html",
+    "href": "writing/epigenetic-age-acceleration-ptsd.html",
+    "title": "Epigenetic Age Acceleration and Disparities in Posttraumatic Stress in Women in Southeast Louisiana",
     "section": "",
-    "text": "Writing Samples\nHere are selected pieces of my scientific and technical writing.\n\nResearch Paper Summary\nProclamation"
+    "text": "Summary. This paper investigates whether epigenetic age acceleration—methylation-based estimates of biological aging exceeding chronological age—is associated with posttraumatic stress and related health disparities among women in Southeast Louisiana. Leveraging data from the NIMHD Social Epigenomics Program, the study examines links between stress exposures, DNA methylation clocks, and PTSD measures, highlighting the potential of epigenetic biomarkers to illuminate social and environmental drivers of mental health inequities."
+  },
+  {
+    "objectID": "writing/epigenetic-age-acceleration-ptsd.html#context-motivation",
+    "href": "writing/epigenetic-age-acceleration-ptsd.html#context-motivation",
+    "title": "Epigenetic Age Acceleration and Disparities in Posttraumatic Stress in Women in Southeast Louisiana",
+    "section": "Context & Motivation",
+    "text": "Context & Motivation\nWhy epigenetic clocks matter in stress-related disorders and how social determinants may influence biological aging."
+  },
+  {
+    "objectID": "writing/epigenetic-age-acceleration-ptsd.html#methods-at-a-glance",
+    "href": "writing/epigenetic-age-acceleration-ptsd.html#methods-at-a-glance",
+    "title": "Epigenetic Age Acceleration and Disparities in Posttraumatic Stress in Women in Southeast Louisiana",
+    "section": "Methods (at a glance)",
+    "text": "Methods (at a glance)\n\nCohort: Women in Southeast Louisiana\n\nMeasures: PTSD assessments; DNA methylation–based epigenetic clocks\n\nApproach: Associations between PTSD indicators and age acceleration"
+  },
+  {
+    "objectID": "writing/epigenetic-age-acceleration-ptsd.html#key-takeaways",
+    "href": "writing/epigenetic-age-acceleration-ptsd.html#key-takeaways",
+    "title": "Epigenetic Age Acceleration and Disparities in Posttraumatic Stress in Women in Southeast Louisiana",
+    "section": "Key Takeaways",
+    "text": "Key Takeaways\n\nHigher epigenetic age acceleration was observed alongside greater posttraumatic stress indicators.\nResults underscore the value of integrating social epigenomics with mental health research."
   },
   {
     "objectID": "projects/blast-protein-id.html",
@@ -39,7 +81,7 @@
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Contact\nI’d love to connect!\n\nEmail GitHub LinkedIn Research Paper (PDF)"
+    "text": "I’d love to connect!\n\nEmail GitHub LinkedIn"
   },
   {
     "objectID": "about.html",
@@ -53,7 +95,14 @@
     "href": "index.html",
     "title": "Welcome!",
     "section": "",
-    "text": "Welcome!\nI’m Gigi Goff, a biologist with interests in research, writing, and data.\nThis portfolio highlights selected projects, from lab experience to bioinformatics analyses.\n\n\nProjects\n\nProtein BLAST Identification: Mini-project confirming an unknown sequence via BLASTp.\nResearch Paper (PDF)"
+    "text": "I’m Gigi Goff, a biologist with interests in research, writing, and data.\nThis portfolio highlights selected projects, from lab experience to bioinformatics analyses."
+  },
+  {
+    "objectID": "index.html#writing",
+    "href": "index.html#writing",
+    "title": "Welcome!",
+    "section": "Writing",
+    "text": "Writing\n\nEpigenetic Age Acceleration … — overview and PDF.\nColon Cancer Awareness …"
   },
   {
     "objectID": "projects/index.html",
@@ -63,17 +112,10 @@
     "text": "A selection of my data analysis and programming projects.\n\nBLAST Protein ID"
   },
   {
-    "objectID": "writing/proclamation.html",
-    "href": "writing/proclamation.html",
-    "title": "Proclamation (Placeholder)",
+    "objectID": "writing/index.html",
+    "href": "writing/index.html",
+    "title": "Writing",
     "section": "",
-    "text": "Placeholder page. Paste your proclamation text here later."
-  },
-  {
-    "objectID": "writing/proclamation.html#overview",
-    "href": "writing/proclamation.html#overview",
-    "title": "Proclamation (Placeholder)",
-    "section": "",
-    "text": "Placeholder page. Paste your proclamation text here later."
+    "text": "Below are selected pieces, including research writing and commentary.\n\nEpigenetic Age Acceleration Research Paper Summary\nColon Cancer Awareness Month Proclamation Summary\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEpigenetic Age Acceleration and Disparities in Posttraumatic Stress in Women in Southeast Louisiana\n\n\nNIMHD Social Epigenomics Program\n\n\n\nresearch\n\nepigenetics\n\nPTSD\n\n\n\n\n\n\n\n\n\nJul 29, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nProclamation: Colon Cancer Awareness Month\n\n\n\n\n\n\npublic health\n\nawareness\n\n\n\n\n\n\n\n\n\nMar 1, 2023\n\n\n\n\n\nNo matching items"
   }
 ]
